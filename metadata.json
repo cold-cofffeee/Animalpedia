@@ -1,0 +1,7 @@
+{
+  "name": "Animalpedia",
+  "description": "An interactive encyclopedia to discover and learn about animals from around the world.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
